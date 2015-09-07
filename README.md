@@ -2,9 +2,9 @@
 The OCA Communities Verticalizations project is a collaborative effort to develop a robust, commercial-grade, set of apps to transform odoo into a full featured platform for communities. 
 The project is managed by a growing worldwide community of volunteers that are willing to contribute to the development and documentation to make this vision real.
 
-***** THESE IS A FORK of "Odoo for Communities Verticalization" COMMUNITY MODULES *******
-***** Containing all modules that are not related to Exchange or Marketplace  *******
-***** The Exchange and Marketplace Modules are to find here: https://github.com/codoo/vertical-exchange *****
+***** THESE IS A FORK of "Odoo for Communities Verticalization" COMMUNITY MODULES *******<br>
+***** Containing all modules that are not related to Exchange or Marketplace  *******<br>
+***** The Exchange and Marketplace Modules are to find here: https://github.com/codoo/vertical-exchange *****<br>
 
 
 ## About ##
