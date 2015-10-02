@@ -51,12 +51,12 @@ class GroupsView(orm.Model):
             group_account_wallet_user = model.get_object(
                 cr, uid, 'account_wallet', 'group_account_wallet_user'
             )
-            group_account_wallet_moderator = model.get_object(
-                cr, uid, 'account_wallet', 'group_account_wallet_moderator'
+            group_exchange_moderator = model.get_object(
+                cr, uid, 'account_wallet', 'group_exchange_moderator'
             )
             res.append((
                 category, 'selection',
-                [group_account_wallet_user, group_account_wallet_moderator]
+                [group_account_wallet_user, group_exchange_moderator]
             ))
 
         except ValueError:

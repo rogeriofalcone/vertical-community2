@@ -7,7 +7,7 @@
         </record>
 
         <record id="community.group_community_administrator" model="res.groups">
-            <field name="implied_ids" eval="[(4,ref('account_wallet.group_account_wallet_moderator'))]"/>
+            <field name="implied_ids" eval="[(4,ref('account_wallet.group_exchange_moderator'))]"/>
         </record>
 
     </data>

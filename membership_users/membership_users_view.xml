@@ -28,7 +28,7 @@
             </field>
        </record>
 
-        <menuitem action="action_membership_my_account" id="menu_action_membership_my_account" parent="membership.menu_membership"/>
+       <menuitem action="action_membership_my_account" id="menu_action_membership_my_account" parent="membership.menu_membership"/>
 
 
         <!-- Partner -->
